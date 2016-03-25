@@ -1,0 +1,45 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "org.geometerplus.zlibrary.ui.android"
+        minSdkVersion 11
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.2.1'
+    compile files('libs/httpmime-4.2.5.jar')
+    compile files('libs/json-simple-1.1.1.jar')
+    compile files('libs/LingvoIntegration_2.5.2.12.jar')
+    compile files('libs/nanohttpd-2.0.5.jar')
+    compile files('libs/open-dictionary-api-1.2.1.jar')
+    compile files('libs/pdfparse.jar')
+    compile project(':ambilWarna')
+    compile project(':code')
+    compile project(':dragsortlistview')
+    compile project(':SuperToasts')
+    compile files('libs/httpcore-4.4.4.jar')
+    compile files('libs/httpclient-4.5.2.jar')
+    compile files('libs/commons-codec-1.9.jar')
+}
+

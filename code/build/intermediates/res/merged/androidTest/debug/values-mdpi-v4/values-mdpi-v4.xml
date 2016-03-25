@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="afc_button_navigators_min_height">32px</dimen>
+    <dimen name="afc_button_ok_saveas_size">32px</dimen>
+    <dimen name="afc_thumbnail_size">48px</dimen>
+</resources>

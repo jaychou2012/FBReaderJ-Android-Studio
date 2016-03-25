@@ -1,0 +1,278 @@
+[
+    {
+        "outputFile": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 233
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 238,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 778,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1275,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1614
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1275,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1619,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1859
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1619,
+                        "endLine": 36,
+                        "endColumn": 12,
+                        "endOffset": 1859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1864,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2172
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1864,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 2172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2177,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 2331
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2177,
+                        "endLine": 44,
+                        "endColumn": 12,
+                        "endOffset": 2331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2336,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 2536
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2336,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 2536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2541,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 2770
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2541,
+                        "endLine": 52,
+                        "endColumn": 12,
+                        "endOffset": 2770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2775,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 2912
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2775,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 2912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2917,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 3095
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2917,
+                        "endLine": 58,
+                        "endColumn": 12,
+                        "endOffset": 3095
+                    }
+                }
+            }
+        ]
+    }
+]

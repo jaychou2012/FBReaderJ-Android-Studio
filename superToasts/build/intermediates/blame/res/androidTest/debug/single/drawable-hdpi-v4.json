@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_light_save.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_light_save.png"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_light_refresh.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_light_refresh.png"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_dark_undo.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_dark_undo.png"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_dark_share.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_dark_share.png"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_light_edit.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_light_edit.png"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_light_info.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_light_info.png"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_light_redo.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_light_redo.png"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_dark_edit.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_dark_edit.png"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_dark_info.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_dark_info.png"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_dark_redo.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_dark_redo.png"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_dark_save.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_dark_save.png"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_dark_exit.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_dark_exit.png"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_light_share.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_light_share.png"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_light_undo.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_light_undo.png"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_dark_refresh.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_dark_refresh.png"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_light_exit.png",
+        "source": "F:\\ndkFile\\FBReaderJ\\superToasts\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_light_exit.png"
+    }
+]

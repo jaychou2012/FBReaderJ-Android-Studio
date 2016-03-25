@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 1138,
+                    "endColumn": 57,
+                    "endOffset": 1191
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 1196,
+                    "endColumn": 55,
+                    "endOffset": 1247
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 1252,
+                    "endColumn": 52,
+                    "endOffset": 1300
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 52,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 1305,
+                    "endColumn": 55,
+                    "endOffset": 1356
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 55,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 1361,
+                    "endColumn": 52,
+                    "endOffset": 1409
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 52,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1414,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 1700
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1705,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1860
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

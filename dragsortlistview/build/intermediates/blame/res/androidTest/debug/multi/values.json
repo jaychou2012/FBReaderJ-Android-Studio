@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 1138,
+                    "endColumn": 57,
+                    "endOffset": 1191
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 1138,
+                        "endColumn": 57,
+                        "endOffset": 1191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 1196,
+                    "endColumn": 55,
+                    "endOffset": 1247
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 1196,
+                        "endColumn": 55,
+                        "endOffset": 1247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 1252,
+                    "endColumn": 52,
+                    "endOffset": 1300
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 1252,
+                        "endColumn": 52,
+                        "endOffset": 1300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 1305,
+                    "endColumn": 55,
+                    "endOffset": 1356
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 1305,
+                        "endColumn": 55,
+                        "endOffset": 1356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 1361,
+                    "endColumn": 52,
+                    "endOffset": 1409
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 1361,
+                        "endColumn": 52,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1414,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 1700
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1414,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 1700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1705,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1860
+                },
+                "from": {
+                    "file": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1705,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 1860
+                    }
+                }
+            }
+        ]
+    }
+]
